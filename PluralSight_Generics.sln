@@ -17,6 +17,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ReflectIt", "ReflectIt\Refl
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ReflectIt.Tests", "ReflectIt.Tests\ReflectIt.Tests.csproj", "{B99C9849-C97C-407C-A731-3EE86D441867}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tips", "Tips\Tips.csproj", "{4F275151-4988-4306-8F2B-CAD409D45908}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -51,6 +53,10 @@ Global
 		{B99C9849-C97C-407C-A731-3EE86D441867}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{B99C9849-C97C-407C-A731-3EE86D441867}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{B99C9849-C97C-407C-A731-3EE86D441867}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4F275151-4988-4306-8F2B-CAD409D45908}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4F275151-4988-4306-8F2B-CAD409D45908}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4F275151-4988-4306-8F2B-CAD409D45908}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4F275151-4988-4306-8F2B-CAD409D45908}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
