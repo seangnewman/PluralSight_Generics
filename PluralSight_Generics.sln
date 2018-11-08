@@ -13,6 +13,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DataStructures", "DataStruc
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "QueryIt", "QueryIt\QueryIt.csproj", "{B75AB8CB-5B67-4C25-8EAF-5CE021F69267}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ReflectIt", "ReflectIt\ReflectIt.csproj", "{F2DF8CE4-ABC7-4CB5-867D-375ACBEB7222}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ReflectIt.Tests", "ReflectIt.Tests\ReflectIt.Tests.csproj", "{B99C9849-C97C-407C-A731-3EE86D441867}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -39,6 +43,14 @@ Global
 		{B75AB8CB-5B67-4C25-8EAF-5CE021F69267}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{B75AB8CB-5B67-4C25-8EAF-5CE021F69267}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{B75AB8CB-5B67-4C25-8EAF-5CE021F69267}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F2DF8CE4-ABC7-4CB5-867D-375ACBEB7222}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F2DF8CE4-ABC7-4CB5-867D-375ACBEB7222}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F2DF8CE4-ABC7-4CB5-867D-375ACBEB7222}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F2DF8CE4-ABC7-4CB5-867D-375ACBEB7222}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B99C9849-C97C-407C-A731-3EE86D441867}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B99C9849-C97C-407C-A731-3EE86D441867}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B99C9849-C97C-407C-A731-3EE86D441867}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B99C9849-C97C-407C-A731-3EE86D441867}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
